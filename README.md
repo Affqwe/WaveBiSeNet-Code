@@ -1,8 +1,6 @@
 # WaveBiSeNet
 
-This repository contains the code implementation of **Wavelet-based BiSeNet (WaveBiSeNet)**, a lightweight real-time segmentation network designed for accurate boundary detection of 1D nanowires.
-
-This code is provided for **anonymous peer review** of our manuscript submitted to *Cell Reports Physical Science*.
+This repository contains the code implementation of WaveBiSeNet
 
 ## 📦 Environment
 GPU: NVIDIA GeForce RTX 4090 (24 GB)
